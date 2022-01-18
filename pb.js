@@ -1,4 +1,4 @@
-// find the populated word is present or not!!
+// find the bangladesh word is present or not!!
 
 var bangladesh = "Bangladesh is highly populated country";
 var lowercase = bangladesh.toLowerCase();
